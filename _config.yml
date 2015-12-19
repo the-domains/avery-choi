@@ -1,0 +1,28 @@
+name: Avery Choi
+favicon: null
+layout_spectrum: 0.700233647134155
+typography_spectrum: 0.40508182323537767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.13205223204568028
+  lightness: 0.054576993919909
+  saturation: 0.1109302593395114
+  rhythmicContrast: 0.785802497761324
+purpose: []
