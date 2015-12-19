@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Avery Choi - Hong Kong]]></title>
+        <description><![CDATA[Avery Choi - Hong Kong]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 14:08:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <description><![CDATA[<article><h1>Hello</h1><p>Hello there! This is Avery Choi.</p></article>]]></description>
+            <link>undefinedhello/index.html</link>
+            <guid isPermaLink="false">d3c31aec-3cab-4b5f-a537-f131d064dc43</guid>
+            <pubDate>Sat, 19 Dec 2015 14:08:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
